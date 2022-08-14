@@ -1,1 +1,8 @@
-# goldimaria ReadME test
+# goldimaria ReadME 
+This file contains a visualization of Angel Di Maria's goal against Brazil on the final match of Copa America 2021.
+
+Explicar como se arma
+
+Explicar el valor de xG
+
+ Habría que profundizar un poco la pregunta de que ofrece la visualización que sea mejor que el video? que info adicional provee? 
